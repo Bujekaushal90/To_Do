@@ -14,3 +14,8 @@
 git clone ...
 pip install -r requirements.txt
 python manage.py runserver
+
+## What I learned
+- Django CRUD
+- Template rendering
+- Database handling
